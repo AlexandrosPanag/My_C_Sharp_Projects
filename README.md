@@ -1,4 +1,4 @@
-# My_C_Sharp_Projects
+# My C# Projects
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
