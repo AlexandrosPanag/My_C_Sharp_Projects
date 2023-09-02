@@ -13,3 +13,14 @@ This work is licensed under a
 
 
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
+
+
+About C#
+----
+
+
+Compiler/Environment/IDE(S) used:
+
+| Compiler/IDE | Link |
+| --------------- | ---------------- |
+| VS CODE | [Download Link](https://code.visualstudio.com/) |
