@@ -23,7 +23,7 @@ C# is an object-oriented, component-oriented programming language. C# provides l
 
 This article was taken from & can be found here: https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
 
-This meterial is based upon the cours "Foundational C# with Microsoft" offered by freeCodeCamp.
+This meterial is based upon the course "Foundational C# with Microsoft" offered by freeCodeCamp & Microsoft.
 
 Compiler/Environment/IDE(S) used:
 
