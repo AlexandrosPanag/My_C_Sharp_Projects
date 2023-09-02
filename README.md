@@ -23,4 +23,4 @@ Compiler/Environment/IDE(S) used:
 
 | Compiler/IDE | Link |
 | --------------- | ---------------- |
-| VS CODE | [Download Link](https://code.visualstudio.com/) |
+| Visual Studio 2022 | [Download Link](https://visualstudio.microsoft.com/downloads/) |
