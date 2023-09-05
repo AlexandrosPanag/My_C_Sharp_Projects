@@ -29,3 +29,8 @@ String Array Join
 ----
 
 Example of how a String array can have an element joined using the "String.Join" command.
+
+String Array Join and Split
+----
+
+Example of how a string array can be joined using the "String.Join" command and then seperating each array element using the "Split()" command
