@@ -24,3 +24,8 @@ Reversing A String Array
 ----
 
 Example of how a String can be put into a char array, then reversed then printed.
+
+String Array Join
+----
+
+Example of how a String array can have an element joined using the "String.Join" command.
