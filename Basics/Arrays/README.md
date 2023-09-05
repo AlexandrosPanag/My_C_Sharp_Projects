@@ -7,3 +7,9 @@ Average Calculator
 ----
 
 A basic example of how Arrays can be used to calculate and find the average (in this case salary) from a number of objects.
+
+
+Array Clear 
+----
+
+Example of how the Array Clear command works.
