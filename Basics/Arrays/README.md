@@ -18,3 +18,9 @@ Array Clear and Resize
 ----
 
 Example of how the array can be cleared (with the Area.Clear command) and also change the size of an existing array.
+
+
+Reversing A String Array
+----
+
+Example of how a String can be put into a char array, then reversed then printed.
