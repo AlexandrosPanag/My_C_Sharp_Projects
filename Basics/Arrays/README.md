@@ -13,3 +13,8 @@ Array Clear
 ----
 
 Example of how the Array Clear command works.
+
+Array Clear and Resize
+----
+
+Example of how the array can be cleared (with the Area.Clear command) and also change the size of an existing array.
