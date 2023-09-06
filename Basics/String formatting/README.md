@@ -26,3 +26,9 @@ Multiple Instances of a Substring
 -----------
 
 Example of a simple way to resolve multiple instances inside a substring.
+
+
+String Remove
+----
+
+Example of how certain characters can be removed from a String.
