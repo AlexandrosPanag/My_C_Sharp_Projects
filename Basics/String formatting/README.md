@@ -20,3 +20,9 @@ Index of Substring
 ----
 
 Example of what may be inside a substring.
+
+
+Multiple Instances of a Substring
+-----------
+
+Example of a simple way to resolve multiple instances inside a substring.
