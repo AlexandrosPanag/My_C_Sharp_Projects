@@ -1,6 +1,6 @@
 //This code is officially written by Microsoft and can be found here : https://learn.microsoft.com/en-us/training/modules/create-c-sharp-methods-return-values/4-exercise-create-methods-return-strings
 //It was a really good example that I just had to include it on my notes!
-//I highly encourage you to check out the official work along with this course offered by freeCodeCamp along with Microsoft on the link bellow
+//I highly encourage you to check out the official work along with this course offered by freeCodeCamp along with Microsoft on the link below
 //https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
 
 string input = "there are snakes at the zoo";
