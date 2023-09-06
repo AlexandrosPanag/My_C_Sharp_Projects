@@ -14,3 +14,9 @@ String Padding
 -----
 
 Example of how String Padding works.
+
+
+Index of Substring
+----
+
+Example of what may be inside a substring.
