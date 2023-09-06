@@ -32,3 +32,9 @@ String Remove
 ----
 
 Example of how certain characters can be removed from a String.
+
+
+String Replace
+----
+
+Example of how a string can be replaced with something else entirely using the replace keyword.
