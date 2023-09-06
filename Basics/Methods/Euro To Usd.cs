@@ -9,7 +9,7 @@ Console.WriteLine($"${euro} EURO = ${EuroToUsd(euro)} USD");
 int UsdToEuro(double usd)
 {
     double rate = 1.2;
-    return (int)(rate / usd);
+    return (int)(usd / rate);
 }
 
 double EuroToUsd(int euro)
