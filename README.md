@@ -14,6 +14,9 @@ This work is licensed under a
 
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 
+✅ Certifications:
+
+Foundation C# By Microsoft: https://www.freecodecamp.org/certification/AlexandrosPanag/foundational-c-sharp-with-microsoft
 
 About C#
 ----
