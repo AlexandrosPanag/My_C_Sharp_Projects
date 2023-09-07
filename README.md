@@ -14,11 +14,11 @@ This work is licensed under a
 
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 
-✅ Certifications:
+Certifications:
 
 ✅ LinkedIn Skill Assessment badge: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
 
-Foundation C# By Microsoft: https://www.freecodecamp.org/certification/AlexandrosPanag/foundational-c-sharp-with-microsoft
+✅ Foundation C# By Microsoft: https://www.freecodecamp.org/certification/AlexandrosPanag/foundational-c-sharp-with-microsoft
 
 
 About C#
