@@ -13,10 +13,10 @@ Console.WriteLine("Exitting the program");
 
 static void Process1()
 {
-    WriteMessage();
+    DivByZero();
 }
 
-static void WriteMessage()
+static void DivByZero()
 {
     double float1 = 100.0;
     double float2 = 0.0;
