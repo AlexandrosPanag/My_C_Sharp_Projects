@@ -16,7 +16,10 @@ Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 
 ✅ Certifications:
 
+✅ LinkedIn Skill Assessment badge: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
+
 Foundation C# By Microsoft: https://www.freecodecamp.org/certification/AlexandrosPanag/foundational-c-sharp-with-microsoft
+
 
 About C#
 ----
