@@ -1,4 +1,3 @@
-
 //By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 
 class Program
