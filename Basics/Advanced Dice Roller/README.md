@@ -14,7 +14,6 @@ Which dice would you like to roll? (e.g., d6): d20
 You rolled a d20 and got: 17
 ```
 
----
 
 ## Features
 
